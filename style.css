@@ -1,0 +1,269 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width:1200px;
+    margin:0 auto;
+}
+.heder-section{
+    background-image: url(images/banner-1686943_1920.jpg);
+    height: 500px;
+    margin-top: -22px;
+}
+.logo a {
+    float: left;
+    margin-right: 10px;
+}
+.logo>h5{
+    padding-left: 10px;
+    color:white;
+    margin-top:4px;
+}
+.logo img{
+    width:60px;
+    height:30px;
+}
+.nav-bar{
+    padding-top:33px;
+}
+.input-fild{
+    width:600px;
+    margin:0 auto;
+}
+.input-box{
+    text-align: center;
+    color:white;
+    margin-top: 100px;
+}
+.input-box >button{
+    width:10%;
+    outline: none;
+    border:none;
+    height:30px;
+    margin-right: -4px;
+}
+.input-box> input{
+    width:89%;
+    height:30px;
+    outline: none;
+    border:none;
+    background:silver;
+    padding-left: 10px;
+}
+.download-btn >button{
+    float:right;
+    background:transparent;
+    color:white;
+    border:none;
+    margin:0;
+    padding:0;
+    margin-top: -22px;
+}
+.hetline-section{
+    position: relative;
+    background:#0d32ff;
+    height:40px;
+}
+.hetline{
+    width:500px;
+    margin: auto;
+    padding-top:8px;
+}
+.hetline h2{
+    float:left;
+    margin:0px;
+    color:white
+    
+}
+
+.submit-btn{
+    width:100px;
+    margin-left: 10px;
+    background:none;
+    outline: none;
+    border:1px solid white;
+    padding:4px;
+    border-radius: 30px;
+    color:white;
+}
+.icon-section{
+    background:#dddcdcd3;
+    margin: 10px 0px 0px 0px;
+}
+.all-icon-box {
+    width:900px;
+    margin:0px auto
+}
+.icon-box{
+    display: inline-block;
+    padding: 16px;
+    text-align:center;
+
+    width:110px;
+}
+.icon-box p{
+    margin:0px;
+}
+.icon{
+    margin-bottom: 4px;
+}
+/* ---------service start--------*/
+.grophics-section,.fronts-section{
+    padding-bottom: 30px;
+    background:white;
+    padding:30px 0px
+}
+.all-icon-box {
+    width:900px;
+    margin:0px auto
+}
+.service-box{
+    display: inline-block;
+    width: 287px;
+    margin: 0px 5px;
+}
+.more-btn {
+    float: right;
+    margin-top:-36px;
+   
+}
+.more-btn{
+    display: inline-block;
+    height: 20px;
+}
+.more-btn a{
+    text-decoration:none;
+    color:rgb(119, 119, 119);
+    font-size: 19px;
+    margin-top: -106px;
+}
+.right-icon{
+    font-size: 15px;
+}
+.service-box img{
+    width: 100%;
+}
+.service-text-group{
+    width:90%;
+}
+.service-text-group h3, p{
+    margin: 0px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+   
+}
+.service-text{
+    position: relative;
+}
+.service-text button {
+    position: absolute;
+    right: 4px;
+    top:0;
+    background: #b3b3b3;
+    border:none;
+    outline: none;
+}
+/* ------service end-------*/
+
+/*------banner 2 start------*/
+.banner-2{
+    background:orange;
+    height:80px;
+}
+.banner-all-box{
+
+}
+.img-box{
+    width:20%;
+    margin-left: 20px;
+    float:left;
+    
+}
+.img-box img{
+    width:100%;
+    height:80px;
+}
+.text-box{
+    width:70%;
+    padding:10px;
+    text-align: center;
+}
+.text-box h4, p{
+    margin: 0px ;
+}
+.button-box{
+    float: right;
+    width:15%;
+    margin-right: 50px;
+    margin-top: -30px;
+}
+.button-box button{
+    width:100%;
+    height:30px;
+}
+button{
+    cursor:pointer;
+}
+/*-----banner 2 end-----*/
+/*-----cart more btn start-----*/
+.cart-more-btn{
+    height: 20px;
+}
+.cart-more-btn a{
+    text-decoration:none;
+    color:rgb(119, 119, 119);
+    font-size: 19px;
+    margin-top: -106px;
+}
+/*-----cart more btn end----*/
+
+/*----Footer start----*/
+.footer-clean{
+    height:300px;
+    background:black;
+    position: relative;
+}
+footer p{
+    color:white;
+}
+.footer-box h3{
+    text-align: center;
+    color:white;
+}
+.footer-box{ 
+    width:300px;
+  
+    padding-top:30px;
+    float: left;
+}
+.footer-box ul li{
+    margin-left: 79px;
+}
+.footer-box ul{
+    list-style:none;
+    margin:0px;
+}
+.footer-box ul li a{
+    text-decoration: none;
+    color:white
+}
+.copyright{
+    width: 300px;
+}
+.help-btn{
+    position:absolute;
+    bottom:20px;
+    background:#0d32ff;
+    border:none;
+    outline: none;
+    border-radius: 20px;
+    padding:2px 8px;
+}
+.copyright{
+    position:absolute;
+    left:50%;
+    bottom:10px;
+    font-size:20px;
+}
+/*----Footer end----*/
